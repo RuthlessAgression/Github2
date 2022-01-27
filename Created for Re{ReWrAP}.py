@@ -1,0 +1,6 @@
+'ram is a boy.'
+'hari plays football.'
+'neha is a nyctophile.'
+'bill loves philanthropy.'
+'Einstein,Tesla and Elon are legends.'
+'leaving here.'
